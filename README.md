@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frzdomps
+- 👋 Hi, I’m @0xfrzdmp
 - 👀 I’m interested in all things cybersecurity and ethical hacking
 - 🌱 I’m currently learning ethical hacking, participating in CTFs and Cybersecurity and Information Assurance at WGU!
 - 💞️ I’m looking to collaborate on cybersecurity and coding projects to gain more knowledge and experience
